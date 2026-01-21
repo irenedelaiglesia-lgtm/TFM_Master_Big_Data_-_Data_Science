@@ -1,52 +1,77 @@
 import os
 from pyspark.sql import SparkSession
-from pyspark.sql.functions import col, when, coalesce, lit
+from pyspark.sql.functions import col, when, lit, coalesce, regexp_replace
 
 # --- CONFIGURACIÓN DE RUTAS ---
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-input_path = os.path.join(BASE_DIR, '..', 'data', 'raw', 'raw_ache_alzheimer.csv')
-output_path = os.path.join(BASE_DIR, '..', 'data', 'processed', 'datos_limpios.csv')
+RAW_PATH = os.path.join(BASE_DIR, '..', 'data', 'raw')
+OUTPUT_PATH = os.path.join(BASE_DIR, '..', 'data', 'processed', 'consolidado_alzheimer.csv')
 
-print("--- TRANSFORMACIÓN AVANZADA CON SPARK ---")
+DIANAS = ["ache", "bace1", "mapt", "gsk3b"]
 
-spark = SparkSession.builder.appName("TFM_Neuro_Silver").getOrCreate()
+print("--- INICIANDO CONSOLIDACIÓN (ESTRATEGIA DE SEGURIDAD TOTAL) ---")
 
-if not os.path.exists(input_path):
-    print(f"Error: No existe el archivo en {input_path}")
-else:
-    # Leer datos
-    df = spark.read.csv(input_path, header=True, inferSchema=True)
+# Forzamos la configuración de Spark para que sea más permisivo con los Casts
+spark = SparkSession.builder \
+    .appName("TFM_Consolidacion_Silver") \
+    .config("spark.sql.ansi.enabled", "false") \
+    .getOrCreate()
 
-    # Transformación con las nuevas columnas interesantes
-    df_final = df.select(
+dfs = []
+for diana in DIANAS:
+    file_path = os.path.join(RAW_PATH, f"raw_{diana}_alzheimer.csv")
+    if os.path.exists(file_path):
+        print(f"Leyendo como texto: {diana.upper()}...")
+        # TRUCO MAESTRO: inferSchema=False para que no intente convertir números aún
+        temp_df = spark.read.csv(file_path, header=True, inferSchema=False) \
+            .withColumn("diana_objetivo", lit(diana.upper()))
+        dfs.append(temp_df)
+
+if dfs:
+    # Unimos todos los datasets
+    df_union = dfs[0]
+    for next_df in dfs[1:]:
+        df_union = df_union.unionByName(next_df, allowMissingColumns=True)
+
+    # LIMPIEZA RADICAL DE CARACTERES
+    # Reemplazamos cualquier cosa que no sea un número o un punto decimal por vacío
+    df_clean = df_union.withColumn("val_clean", regexp_replace(col("standard_value"), "[^0-9.]", "")) \
+                       .withColumn("pchem_clean", regexp_replace(col("pchembl_value"), "[^0-9.]", ""))
+
+    # TRANSFORMACIÓN FINAL CON FILTRO DE SEGURIDAD
+    df_silver = df_clean.select(
+        col("diana_objetivo"),
         col("molecule_chembl_id").alias("id_farmaco"),
-        # Si no hay nombre preferido, ponemos 'Sin nombre comercial'
-        coalesce(col("molecule_pref_name"), lit("Sin nombre comercial")).alias("nombre"),
-        col("standard_value").cast("double").alias("ic50_nm"),
-        # pchembl_value es vital para análisis estadísticos
-        col("pchembl_value").cast("double").alias("pchembl"),
-        col("document_year").cast("int").alias("año"),
-        col("canonical_smiles").alias("smiles"),
-        col("assay_description").alias("descripcion_ensayo")
-    ).filter(col("id_farmaco").isNotNull())
+        coalesce(col("molecule_pref_name"), lit("Sin nombre")).alias("nombre"),
+        col("val_clean").cast("double").alias("ic50_nm"),
+        col("pchem_clean").cast("double").alias("pchembl"),
+        coalesce(col("document_year").cast("int"), lit(0)).alias("anio"),
+        col("canonical_smiles").alias("smiles")
+    ).filter(
+        col("id_farmaco").isNotNull() & 
+        (col("ic50_nm") > 0) & 
+        (col("pchembl") > 0)
+    )
 
-    # Clasificación de potencia basada en pChEMBL (Escala logarítmica)
-    # Generalmente: > 6 es potente, > 8 es muy potente
-    df_final = df_final.withColumn("nivel_potencia", 
+    # Clasificación de potencia
+    df_silver = df_silver.withColumn("nivel_potencia", 
         when(col("pchembl") >= 7, "Muy Alta")
         .when((col("pchembl") >= 5) & (col("pchembl") < 7), "Media")
         .otherwise("Baja")
     )
 
-    # Guardar usando el "puente" de Pandas para evitar errores de Hadoop en Windows
-    print("Exportando Capa Silver optimizada...")
-    pandas_df = df_final.toPandas()
-    pandas_df.to_csv(output_path, index=False)
+    # Acción final: Convertir a Pandas y guardar
+    print(f"Procesando y exportando registros...")
+    # Usamos collect para forzar la ejecución antes de convertir a Pandas
+    final_count = df_silver.count()
+    print(f"Total registros limpios detectados: {final_count}")
+    
+    pandas_df = df_silver.toPandas()
+    pandas_df.to_csv(OUTPUT_PATH, index=False)
 
     print("\n" + "="*40)
-    print(f"REGISTROS PROCESADOS: {len(pandas_df)}")
-    print(f"TABLA ACTUALIZADA CON NOMBRES Y AÑOS")
+    print("ÉXITO: CAPA SILVER CONSOLIDADA")
+    df_silver.groupBy("diana_objetivo").count().show()
     print("="*40)
-    print(pandas_df[['id_farmaco', 'nombre', 'pchembl', 'nivel_potencia']].head(10))
 
 spark.stop()
