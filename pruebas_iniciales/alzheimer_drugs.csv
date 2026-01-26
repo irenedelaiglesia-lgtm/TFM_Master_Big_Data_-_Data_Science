@@ -1,0 +1,686 @@
+target_symbol,target_category,drug_name,drug_type,trial_phase,trial_status
+PSEN1,🟡 Literature-Driven Target,NIROGACESTAT,Small molecule,3,"Active, not recruiting"
+PSEN1,🟡 Literature-Driven Target,TARENFLURBIL,Small molecule,3,Completed
+PSEN1,🟡 Literature-Driven Target,TARENFLURBIL,Small molecule,3,Completed
+PSEN1,🟡 Literature-Driven Target,SEMAGACESTAT,Small molecule,3,Completed
+PSEN1,🟡 Literature-Driven Target,TARENFLURBIL,Small molecule,3,Terminated
+PSEN1,🟡 Literature-Driven Target,TARENFLURBIL,Small molecule,3,Terminated
+PSEN1,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Completed
+PSEN1,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Withdrawn
+PSEN1,🟡 Literature-Driven Target,NIROGACESTAT,Small molecule,2,Not yet recruiting
+PSEN1,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Terminated
+PSEN1,🟡 Literature-Driven Target,NIROGACESTAT,Small molecule,2,Completed
+PSEN1,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Completed
+PSEN1,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Completed
+PSEN1,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Completed
+PSEN1,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Withdrawn
+PSEN1,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Withdrawn
+PSEN1,🟡 Literature-Driven Target,NIROGACESTAT,Small molecule,2,Recruiting
+PSEN1,🟡 Literature-Driven Target,NIROGACESTAT,Small molecule,2,Terminated
+PSEN1,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Terminated
+PSEN1,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Terminated
+PSEN1,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Terminated
+PSEN1,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Completed
+PSEN1,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Completed
+PSEN1,🟡 Literature-Driven Target,NIROGACESTAT,Small molecule,2,"Active, not recruiting"
+PSEN1,🟡 Literature-Driven Target,NIROGACESTAT,Small molecule,2,Recruiting
+APP,🟡 Literature-Driven Target,ADUCANUMAB,Antibody,4,Unknown
+APP,🟡 Literature-Driven Target,LECANEMAB,Antibody,4,Unknown
+APP,🟡 Literature-Driven Target,ADUCANUMAB,Antibody,4,Unknown
+APP,🟡 Literature-Driven Target,SOLANEZUMAB,Antibody,3,Completed
+APP,🟡 Literature-Driven Target,TRAMIPROSATE,Small molecule,3,Unknown status
+APP,🟡 Literature-Driven Target,CRENEZUMAB,Antibody,3,Terminated
+APP,🟡 Literature-Driven Target,GANTENERUMAB,Antibody,3,Completed
+APP,🟡 Literature-Driven Target,GANTENERUMAB,Antibody,3,Terminated
+APP,🟡 Literature-Driven Target,BAPINEUZUMAB,Antibody,3,Terminated
+APP,🟡 Literature-Driven Target,SOLANEZUMAB,Antibody,3,Completed
+APP,🟡 Literature-Driven Target,SOLANEZUMAB,Antibody,3,Terminated
+APP,🟡 Literature-Driven Target,BAPINEUZUMAB,Antibody,3,Completed
+APP,🟡 Literature-Driven Target,ADUCANUMAB,Antibody,3,"Active, not recruiting"
+APP,🟡 Literature-Driven Target,ADUCANUMAB,Antibody,3,Terminated
+APP,🟡 Literature-Driven Target,LECANEMAB,Antibody,3,"Active, not recruiting"
+APP,🟡 Literature-Driven Target,LECANEMAB,Antibody,3,Recruiting
+APP,🟡 Literature-Driven Target,DONANEMAB,Antibody,3,"Active, not recruiting"
+APP,🟡 Literature-Driven Target,DONANEMAB,Antibody,3,Recruiting
+APP,🟡 Literature-Driven Target,VALILTRAMIPROSATE,Small molecule,3,"Active, not recruiting"
+APP,🟡 Literature-Driven Target,VALILTRAMIPROSATE,Small molecule,3,Enrolling by invitation
+APP,🟡 Literature-Driven Target,TRAMIPROSATE,Small molecule,2,Completed
+APP,🟡 Literature-Driven Target,PONEZUMAB,Antibody,2,Completed
+APP,🟡 Literature-Driven Target,GANTENERUMAB,Antibody,2,Terminated
+APP,🟡 Literature-Driven Target,SOLANEZUMAB,Antibody,2,Completed
+APP,🟡 Literature-Driven Target,VANUTIDE CRIDIFICAR,Protein,2,Terminated
+PSEN2,🟡 Literature-Driven Target,NIROGACESTAT,Small molecule,3,"Active, not recruiting"
+PSEN2,🟡 Literature-Driven Target,TARENFLURBIL,Small molecule,3,Terminated
+PSEN2,🟡 Literature-Driven Target,TARENFLURBIL,Small molecule,3,Completed
+PSEN2,🟡 Literature-Driven Target,TARENFLURBIL,Small molecule,3,Terminated
+PSEN2,🟡 Literature-Driven Target,TARENFLURBIL,Small molecule,3,Completed
+PSEN2,🟡 Literature-Driven Target,SEMAGACESTAT,Small molecule,3,Completed
+PSEN2,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Withdrawn
+PSEN2,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Completed
+PSEN2,🟡 Literature-Driven Target,NIROGACESTAT,Small molecule,2,Completed
+PSEN2,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Completed
+PSEN2,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Withdrawn
+PSEN2,🟡 Literature-Driven Target,NIROGACESTAT,Small molecule,2,Not yet recruiting
+PSEN2,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Completed
+PSEN2,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Terminated
+PSEN2,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Withdrawn
+PSEN2,🟡 Literature-Driven Target,NIROGACESTAT,Small molecule,2,Recruiting
+PSEN2,🟡 Literature-Driven Target,NIROGACESTAT,Small molecule,2,Terminated
+PSEN2,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Terminated
+PSEN2,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Completed
+PSEN2,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Terminated
+PSEN2,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Terminated
+PSEN2,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Completed
+PSEN2,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Completed
+PSEN2,🟡 Literature-Driven Target,NIROGACESTAT,Small molecule,2,"Active, not recruiting"
+PSEN2,🟡 Literature-Driven Target,RG-4733,Small molecule,2,Completed
+GRIN1,🟡 Literature-Driven Target,FELBAMATE,Small molecule,4,Unknown
+GRIN1,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN1,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN1,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN1,🟡 Literature-Driven Target,FELBAMATE,Small molecule,4,Unknown
+GRIN1,🟡 Literature-Driven Target,MEMANTINE,Small molecule,4,Unknown
+GRIN1,🟡 Literature-Driven Target,MEMANTINE,Small molecule,4,Completed
+GRIN1,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN1,🟡 Literature-Driven Target,ORPHENADRINE CITRATE,Small molecule,4,Unknown
+GRIN1,🟡 Literature-Driven Target,ESKETAMINE,Small molecule,4,Withdrawn
+GRIN1,🟡 Literature-Driven Target,ESKETAMINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN1,🟡 Literature-Driven Target,ESKETAMINE,Small molecule,4,Completed
+GRIN1,🟡 Literature-Driven Target,ESKETAMINE,Small molecule,4,Recruiting
+GRIN1,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN1,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN1,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN1,🟡 Literature-Driven Target,MEMANTINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN1,🟡 Literature-Driven Target,MEMANTINE HYDROCHLORIDE,Small molecule,4,Completed
+GRIN1,🟡 Literature-Driven Target,ACAMPROSATE,Small molecule,4,Unknown
+GRIN1,🟡 Literature-Driven Target,ACAMPROSATE,Small molecule,4,Terminated
+GRIN1,🟡 Literature-Driven Target,ACAMPROSATE,Small molecule,4,Unknown status
+GRIN1,🟡 Literature-Driven Target,ESKETAMINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN1,🟡 Literature-Driven Target,ESKETAMINE,Small molecule,4,Unknown
+GRIN1,🟡 Literature-Driven Target,ESKETAMINE,Small molecule,4,Recruiting
+GRIN1,🟡 Literature-Driven Target,ESKETAMINE,Small molecule,4,Unknown
+CDK5,🟡 Literature-Driven Target,DINACICLIB,Small molecule,3,Completed
+CDK5,🟡 Literature-Driven Target,AT-7519,Small molecule,2,Completed
+CDK5,🟡 Literature-Driven Target,DINACICLIB,Small molecule,2,Terminated
+CDK5,🟡 Literature-Driven Target,DINACICLIB,Small molecule,2,Terminated
+CDK5,🟡 Literature-Driven Target,DINACICLIB,Small molecule,2,Completed
+CDK5,🟡 Literature-Driven Target,RONICICLIB,Small molecule,2,Withdrawn
+CDK5,🟡 Literature-Driven Target,SELICICLIB,Small molecule,2,Terminated
+CDK5,🟡 Literature-Driven Target,RONICICLIB,Small molecule,2,Terminated
+CDK5,🟡 Literature-Driven Target,SELICICLIB,Small molecule,2,Recruiting
+CDK5,🟡 Literature-Driven Target,AT-7519,Small molecule,2,Completed
+CDK5,🟡 Literature-Driven Target,DINACICLIB,Small molecule,2,"Active, not recruiting"
+CDK5,🟡 Literature-Driven Target,DINACICLIB,Small molecule,2,"Active, not recruiting"
+CDK5,🟡 Literature-Driven Target,SELICICLIB,Small molecule,2,Terminated
+CDK5,🟡 Literature-Driven Target,SELICICLIB,Small molecule,2,Terminated
+CDK5,🟡 Literature-Driven Target,DINACICLIB,Small molecule,2,"Active, not recruiting"
+CDK5,🟡 Literature-Driven Target,DINACICLIB,Small molecule,1,Completed
+CDK5,🟡 Literature-Driven Target,DINACICLIB,Small molecule,1,Terminated
+CDK5,🟡 Literature-Driven Target,AT-7519,Small molecule,1,Completed
+CDK5,🟡 Literature-Driven Target,SELICICLIB,Small molecule,1,Completed
+CDK5,🟡 Literature-Driven Target,RONICICLIB,Small molecule,1,Completed
+CDK5,🟡 Literature-Driven Target,AT-7519,Small molecule,1,Completed
+CDK5,🟡 Literature-Driven Target,DINACICLIB,Small molecule,1,"Active, not recruiting"
+CDK5,🟡 Literature-Driven Target,PHA-793887,Small molecule,1,Terminated
+CDK5,🟡 Literature-Driven Target,AT-7519,Small molecule,1,"Active, not recruiting"
+CDK5,🟡 Literature-Driven Target,AZD-5438,Small molecule,1,Completed
+GRIN3B,⚪ Under Investigation,FELBAMATE,Small molecule,4,Unknown
+GRIN3B,⚪ Under Investigation,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN3B,⚪ Under Investigation,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN3B,⚪ Under Investigation,FELBAMATE,Small molecule,4,Unknown
+GRIN3B,⚪ Under Investigation,ORPHENADRINE CITRATE,Small molecule,4,Unknown
+GRIN3B,⚪ Under Investigation,ESKETAMINE,Small molecule,4,Withdrawn
+GRIN3B,⚪ Under Investigation,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN3B,⚪ Under Investigation,ESKETAMINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN3B,⚪ Under Investigation,ESKETAMINE,Small molecule,4,Unknown
+GRIN3B,⚪ Under Investigation,ESKETAMINE,Small molecule,4,Completed
+GRIN3B,⚪ Under Investigation,FELBAMATE,Small molecule,4,Unknown
+GRIN3B,⚪ Under Investigation,MEMANTINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN3B,⚪ Under Investigation,MEMANTINE HYDROCHLORIDE,Small molecule,4,Unknown status
+GRIN3B,⚪ Under Investigation,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN3B,⚪ Under Investigation,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN3B,⚪ Under Investigation,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN3B,⚪ Under Investigation,AMANTADINE HYDROCHLORIDE,Small molecule,4,Completed
+GRIN3B,⚪ Under Investigation,AMANTADINE,Small molecule,4,Completed
+GRIN3B,⚪ Under Investigation,MEMANTINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN3B,⚪ Under Investigation,MEMANTINE HYDROCHLORIDE,Small molecule,4,Completed
+GRIN3B,⚪ Under Investigation,MEMANTINE,Small molecule,4,Unknown
+GRIN3B,⚪ Under Investigation,MEMANTINE,Small molecule,4,Completed
+GRIN3B,⚪ Under Investigation,ACAMPROSATE,Small molecule,4,Completed
+GRIN3B,⚪ Under Investigation,ACAMPROSATE,Small molecule,4,Terminated
+GRIN3B,⚪ Under Investigation,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+ACHE,🟡 Literature-Driven Target,PRALIDOXIME CHLORIDE,Small molecule,4,Unknown
+ACHE,🟡 Literature-Driven Target,GALANTAMINE HYDROBROMIDE,Small molecule,4,Unknown
+ACHE,🟡 Literature-Driven Target,DONEPEZIL HYDROCHLORIDE,Small molecule,4,Unknown
+ACHE,🟡 Literature-Driven Target,DONEPEZIL HYDROCHLORIDE,Small molecule,4,Completed
+ACHE,🟡 Literature-Driven Target,DONEPEZIL,Small molecule,4,Unknown
+ACHE,🟡 Literature-Driven Target,TACRINE,Small molecule,4,Unknown
+ACHE,🟡 Literature-Driven Target,NEOSTIGMINE METHYLSULFATE,Small molecule,4,Unknown
+ACHE,🟡 Literature-Driven Target,PRALIDOXIME CHLORIDE,Small molecule,4,Unknown
+ACHE,🟡 Literature-Driven Target,PYRIDOSTIGMINE BROMIDE,Small molecule,4,Unknown
+ACHE,🟡 Literature-Driven Target,GALANTAMINE HYDROBROMIDE,Small molecule,4,Unknown
+ACHE,🟡 Literature-Driven Target,GALANTAMINE HYDROBROMIDE,Small molecule,4,Completed
+ACHE,🟡 Literature-Driven Target,DONEPEZIL HYDROCHLORIDE,Small molecule,4,Unknown
+ACHE,🟡 Literature-Driven Target,DONEPEZIL HYDROCHLORIDE,Small molecule,4,Terminated
+ACHE,🟡 Literature-Driven Target,DONEPEZIL HYDROCHLORIDE,Small molecule,4,Withdrawn
+ACHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,4,Unknown
+ACHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,4,Completed
+ACHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,4,Not yet recruiting
+ACHE,🟡 Literature-Driven Target,ISOFLUROPHATE,Small molecule,4,Unknown
+ACHE,🟡 Literature-Driven Target,ECHOTHIOPHATE,Small molecule,4,Unknown
+ACHE,🟡 Literature-Driven Target,NEOSTIGMINE,Small molecule,4,Unknown
+ACHE,🟡 Literature-Driven Target,PHYSOSTIGMINE,Small molecule,4,Unknown
+ACHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,4,Unknown
+ACHE,🟡 Literature-Driven Target,DONEPEZIL,Small molecule,4,Completed
+ACHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,4,Unknown
+ACHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,4,Completed
+ACE,🟡 Literature-Driven Target,LISINOPRIL,Small molecule,4,Unknown
+ACE,🟡 Literature-Driven Target,MOEXIPRIL,Small molecule,4,Unknown
+ACE,🟡 Literature-Driven Target,RAMIPRIL,Small molecule,4,Unknown
+ACE,🟡 Literature-Driven Target,RAMIPRIL,Small molecule,4,Completed
+ACE,🟡 Literature-Driven Target,QUINAPRIL HYDROCHLORIDE,Small molecule,4,Unknown
+ACE,🟡 Literature-Driven Target,CAPTOPRIL,Small molecule,4,Unknown
+ACE,🟡 Literature-Driven Target,PERINDOPRIL,Small molecule,4,Unknown
+ACE,🟡 Literature-Driven Target,QUINAPRIL,Small molecule,4,Unknown
+ACE,🟡 Literature-Driven Target,QUINAPRIL,Small molecule,4,Completed
+ACE,🟡 Literature-Driven Target,FOSINOPRIL,Small molecule,4,Unknown
+ACE,🟡 Literature-Driven Target,IMIDAPRIL,Small molecule,4,Unknown
+ACE,🟡 Literature-Driven Target,ENALAPRIL,Small molecule,4,Unknown
+ACE,🟡 Literature-Driven Target,BENAZEPRIL,Small molecule,4,Unknown
+ACE,🟡 Literature-Driven Target,BENAZEPRIL HYDROCHLORIDE,Small molecule,4,Unknown
+ACE,🟡 Literature-Driven Target,RAMIPRIL,Small molecule,4,Unknown
+ACE,🟡 Literature-Driven Target,ENALAPRIL MALEATE,Small molecule,4,Unknown
+ACE,🟡 Literature-Driven Target,LISINOPRIL,Small molecule,4,Unknown
+ACE,🟡 Literature-Driven Target,TRANDOLAPRIL,Small molecule,4,Unknown
+ACE,🟡 Literature-Driven Target,LISINOPRIL,Small molecule,4,Unknown
+ACE,🟡 Literature-Driven Target,SPIRAPRIL,Small molecule,4,Unknown
+ACE,🟡 Literature-Driven Target,CILAZAPRIL,Small molecule,4,Unknown
+ACE,🟡 Literature-Driven Target,RAMIPRIL,Small molecule,4,Unknown
+ACE,🟡 Literature-Driven Target,RAMIPRIL,Small molecule,4,Completed
+ACE,🟡 Literature-Driven Target,RAMIPRIL,Small molecule,4,Recruiting
+ACE,🟡 Literature-Driven Target,RAMIPRIL,Small molecule,4,Withdrawn
+BCHE,🟡 Literature-Driven Target,TACRINE,Small molecule,4,Unknown
+BCHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,4,Completed
+BCHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,4,Not yet recruiting
+BCHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,4,Unknown
+BCHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,4,Completed
+BCHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,4,Unknown
+BCHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,4,Completed
+BCHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,4,Unknown
+BCHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,4,Terminated
+BCHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,3,Completed
+BCHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,3,Completed
+BCHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,3,Terminated
+BCHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,3,Terminated
+BCHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,3,Terminated
+BCHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,3,Completed
+BCHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,3,Completed
+BCHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,3,"Active, not recruiting"
+BCHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,3,Completed
+BCHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,3,Terminated
+BCHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,3,Terminated
+BCHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,3,Terminated
+BCHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,3,Completed
+BCHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,3,Completed
+BCHE,🟡 Literature-Driven Target,TACRINE,Small molecule,2,Withdrawn
+BCHE,🟡 Literature-Driven Target,RIVASTIGMINE,Small molecule,2,Not yet recruiting
+APH1B,⚪ Under Investigation,TARENFLURBIL,Small molecule,3,Completed
+APH1B,⚪ Under Investigation,NIROGACESTAT,Small molecule,3,"Active, not recruiting"
+APH1B,⚪ Under Investigation,TARENFLURBIL,Small molecule,3,Terminated
+APH1B,⚪ Under Investigation,TARENFLURBIL,Small molecule,3,Completed
+APH1B,⚪ Under Investigation,TARENFLURBIL,Small molecule,3,Terminated
+APH1B,⚪ Under Investigation,SEMAGACESTAT,Small molecule,3,Completed
+APH1B,⚪ Under Investigation,RG-4733,Small molecule,2,Completed
+APH1B,⚪ Under Investigation,RG-4733,Small molecule,2,Withdrawn
+APH1B,⚪ Under Investigation,NIROGACESTAT,Small molecule,2,Completed
+APH1B,⚪ Under Investigation,NIROGACESTAT,Small molecule,2,Not yet recruiting
+APH1B,⚪ Under Investigation,RG-4733,Small molecule,2,Terminated
+APH1B,⚪ Under Investigation,RG-4733,Small molecule,2,Completed
+APH1B,⚪ Under Investigation,RG-4733,Small molecule,2,Completed
+APH1B,⚪ Under Investigation,RG-4733,Small molecule,2,Withdrawn
+APH1B,⚪ Under Investigation,RG-4733,Small molecule,2,Terminated
+APH1B,⚪ Under Investigation,RG-4733,Small molecule,2,Withdrawn
+APH1B,⚪ Under Investigation,NIROGACESTAT,Small molecule,2,Recruiting
+APH1B,⚪ Under Investigation,RG-4733,Small molecule,2,Terminated
+APH1B,⚪ Under Investigation,NIROGACESTAT,Small molecule,2,Terminated
+APH1B,⚪ Under Investigation,RG-4733,Small molecule,2,Completed
+APH1B,⚪ Under Investigation,RG-4733,Small molecule,2,Completed
+APH1B,⚪ Under Investigation,RG-4733,Small molecule,2,Completed
+APH1B,⚪ Under Investigation,NIROGACESTAT,Small molecule,2,"Active, not recruiting"
+APH1B,⚪ Under Investigation,NIROGACESTAT,Small molecule,2,Completed
+APH1B,⚪ Under Investigation,NIROGACESTAT,Small molecule,2,Recruiting
+GRIN2B,🟡 Literature-Driven Target,FELBAMATE,Small molecule,4,Unknown
+GRIN2B,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2B,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2B,🟡 Literature-Driven Target,ESKETAMINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2B,🟡 Literature-Driven Target,ESKETAMINE,Small molecule,4,Unknown
+GRIN2B,🟡 Literature-Driven Target,ESKETAMINE,Small molecule,4,Recruiting
+GRIN2B,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2B,🟡 Literature-Driven Target,ESKETAMINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2B,🟡 Literature-Driven Target,ESKETAMINE,Small molecule,4,Unknown
+GRIN2B,🟡 Literature-Driven Target,ESKETAMINE,Small molecule,4,Completed
+GRIN2B,🟡 Literature-Driven Target,FELBAMATE,Small molecule,4,Unknown
+GRIN2B,🟡 Literature-Driven Target,MEMANTINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2B,🟡 Literature-Driven Target,MEMANTINE HYDROCHLORIDE,Small molecule,4,Unknown status
+GRIN2B,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2B,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2B,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2B,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2B,🟡 Literature-Driven Target,AMANTADINE,Small molecule,4,Unknown
+GRIN2B,🟡 Literature-Driven Target,MEMANTINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2B,🟡 Literature-Driven Target,MEMANTINE HYDROCHLORIDE,Small molecule,4,Completed
+GRIN2B,🟡 Literature-Driven Target,MEMANTINE,Small molecule,4,Unknown
+GRIN2B,🟡 Literature-Driven Target,MEMANTINE,Small molecule,4,Completed
+GRIN2B,🟡 Literature-Driven Target,FELBAMATE,Small molecule,4,Unknown
+GRIN2B,🟡 Literature-Driven Target,ORPHENADRINE CITRATE,Small molecule,4,Unknown
+GRIN2B,🟡 Literature-Driven Target,ACAMPROSATE,Small molecule,4,Unknown
+GRIN2A,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2A,🟡 Literature-Driven Target,FELBAMATE,Small molecule,4,Unknown
+GRIN2A,🟡 Literature-Driven Target,DEXTROMETHORPHAN HYDROBROMIDE,Small molecule,4,Unknown
+GRIN2A,🟡 Literature-Driven Target,DEXTROMETHORPHAN HYDROBROMIDE,Small molecule,4,Completed
+GRIN2A,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2A,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2A,🟡 Literature-Driven Target,FELBAMATE,Small molecule,4,Unknown
+GRIN2A,🟡 Literature-Driven Target,MEMANTINE,Small molecule,4,Completed
+GRIN2A,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2A,🟡 Literature-Driven Target,DEXTROMETHORPHAN HYDROBROMIDE,Small molecule,4,Unknown
+GRIN2A,🟡 Literature-Driven Target,DEXTROMETHORPHAN HYDROBROMIDE,Small molecule,4,Terminated
+GRIN2A,🟡 Literature-Driven Target,DEXTROMETHORPHAN,Small molecule,4,Completed
+GRIN2A,🟡 Literature-Driven Target,ORPHENADRINE CITRATE,Small molecule,4,Unknown
+GRIN2A,🟡 Literature-Driven Target,ESKETAMINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2A,🟡 Literature-Driven Target,DEXTROMETHORPHAN HYDROBROMIDE,Small molecule,4,Unknown
+GRIN2A,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2A,🟡 Literature-Driven Target,ESKETAMINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2A,🟡 Literature-Driven Target,ESKETAMINE,Small molecule,4,Completed
+GRIN2A,🟡 Literature-Driven Target,ESKETAMINE,Small molecule,4,Recruiting
+GRIN2A,🟡 Literature-Driven Target,MEMANTINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2A,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2A,🟡 Literature-Driven Target,ORPHENADRINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2A,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2A,🟡 Literature-Driven Target,AMANTADINE,Small molecule,4,Completed
+GRIN2A,🟡 Literature-Driven Target,AMANTADINE,Small molecule,4,Unknown status
+GRIN2D,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2D,🟡 Literature-Driven Target,FELBAMATE,Small molecule,4,Unknown
+GRIN2D,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2D,🟡 Literature-Driven Target,MEMANTINE HYDROCHLORIDE,Small molecule,4,Completed
+GRIN2D,🟡 Literature-Driven Target,ORPHENADRINE CITRATE,Small molecule,4,Unknown
+GRIN2D,🟡 Literature-Driven Target,ESKETAMINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2D,🟡 Literature-Driven Target,ESKETAMINE,Small molecule,4,Unknown
+GRIN2D,🟡 Literature-Driven Target,ESKETAMINE,Small molecule,4,Withdrawn
+GRIN2D,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2D,🟡 Literature-Driven Target,ESKETAMINE,Small molecule,4,Completed
+GRIN2D,🟡 Literature-Driven Target,ESKETAMINE,Small molecule,4,Recruiting
+GRIN2D,🟡 Literature-Driven Target,FELBAMATE,Small molecule,4,Unknown
+GRIN2D,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2D,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2D,🟡 Literature-Driven Target,ORPHENADRINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2D,🟡 Literature-Driven Target,MEMANTINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2D,🟡 Literature-Driven Target,MEMANTINE,Small molecule,4,Unknown
+GRIN2D,🟡 Literature-Driven Target,MEMANTINE,Small molecule,4,Completed
+GRIN2D,🟡 Literature-Driven Target,FELBAMATE,Small molecule,4,Unknown
+GRIN2D,🟡 Literature-Driven Target,ACAMPROSATE,Small molecule,4,Not yet recruiting
+GRIN2D,🟡 Literature-Driven Target,ACAMPROSATE,Small molecule,4,Terminated
+GRIN2D,🟡 Literature-Driven Target,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2D,🟡 Literature-Driven Target,ACAMPROSATE,Small molecule,4,Withdrawn
+GRIN2D,🟡 Literature-Driven Target,ESKETAMINE,Small molecule,4,Recruiting
+GRIN2D,🟡 Literature-Driven Target,ESKETAMINE HYDROCHLORIDE,Small molecule,4,Unknown
+EPHA1,⚪ Under Investigation,VANDETANIB,Small molecule,4,Unknown
+EPHA1,⚪ Under Investigation,VANDETANIB,Small molecule,4,Unknown
+EPHA1,⚪ Under Investigation,VANDETANIB,Small molecule,4,Unknown
+EPHA1,⚪ Under Investigation,VANDETANIB,Small molecule,4,"Active, not recruiting"
+EPHA1,⚪ Under Investigation,VANDETANIB,Small molecule,4,Unknown
+EPHA1,⚪ Under Investigation,VANDETANIB,Small molecule,3,Completed
+EPHA1,⚪ Under Investigation,VANDETANIB,Small molecule,3,Completed
+EPHA1,⚪ Under Investigation,VANDETANIB,Small molecule,3,"Active, not recruiting"
+EPHA1,⚪ Under Investigation,VANDETANIB,Small molecule,3,"Active, not recruiting"
+EPHA1,⚪ Under Investigation,VANDETANIB,Small molecule,3,Withdrawn
+EPHA1,⚪ Under Investigation,VANDETANIB,Small molecule,3,Completed
+EPHA1,⚪ Under Investigation,VANDETANIB,Small molecule,2,Completed
+EPHA1,⚪ Under Investigation,VANDETANIB,Small molecule,2,Completed
+EPHA1,⚪ Under Investigation,VANDETANIB,Small molecule,2,Unknown status
+EPHA1,⚪ Under Investigation,VANDETANIB,Small molecule,2,Terminated
+EPHA1,⚪ Under Investigation,VANDETANIB,Small molecule,2,Terminated
+EPHA1,⚪ Under Investigation,VANDETANIB,Small molecule,2,Completed
+EPHA1,⚪ Under Investigation,VANDETANIB,Small molecule,2,Completed
+EPHA1,⚪ Under Investigation,VANDETANIB,Small molecule,2,Terminated
+EPHA1,⚪ Under Investigation,VANDETANIB,Small molecule,2,Completed
+EPHA1,⚪ Under Investigation,VANDETANIB,Small molecule,2,Unknown status
+EPHA1,⚪ Under Investigation,VANDETANIB,Small molecule,2,Completed
+EPHA1,⚪ Under Investigation,VANDETANIB,Small molecule,2,Terminated
+EPHA1,⚪ Under Investigation,VANDETANIB,Small molecule,2,Recruiting
+EPHA1,⚪ Under Investigation,VANDETANIB,Small molecule,2,Completed
+GRIN3A,⚪ Under Investigation,FELBAMATE,Small molecule,4,Unknown
+GRIN3A,⚪ Under Investigation,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN3A,⚪ Under Investigation,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN3A,⚪ Under Investigation,MEMANTINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN3A,⚪ Under Investigation,MEMANTINE,Small molecule,4,Unknown
+GRIN3A,⚪ Under Investigation,MEMANTINE,Small molecule,4,Completed
+GRIN3A,⚪ Under Investigation,ESKETAMINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN3A,⚪ Under Investigation,ESKETAMINE,Small molecule,4,Recruiting
+GRIN3A,⚪ Under Investigation,ESKETAMINE,Small molecule,4,Withdrawn
+GRIN3A,⚪ Under Investigation,ESKETAMINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN3A,⚪ Under Investigation,ESKETAMINE,Small molecule,4,Completed
+GRIN3A,⚪ Under Investigation,ESKETAMINE,Small molecule,4,Recruiting
+GRIN3A,⚪ Under Investigation,MEMANTINE HYDROCHLORIDE,Small molecule,4,Unknown status
+GRIN3A,⚪ Under Investigation,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN3A,⚪ Under Investigation,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN3A,⚪ Under Investigation,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN3A,⚪ Under Investigation,ORPHENADRINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN3A,⚪ Under Investigation,AMANTADINE HYDROCHLORIDE,Small molecule,4,Completed
+GRIN3A,⚪ Under Investigation,AMANTADINE,Small molecule,4,Unknown
+GRIN3A,⚪ Under Investigation,MEMANTINE HYDROCHLORIDE,Small molecule,4,Completed
+GRIN3A,⚪ Under Investigation,FELBAMATE,Small molecule,4,Unknown
+GRIN3A,⚪ Under Investigation,ORPHENADRINE CITRATE,Small molecule,4,Unknown
+GRIN3A,⚪ Under Investigation,ACAMPROSATE,Small molecule,4,Unknown
+GRIN3A,⚪ Under Investigation,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN3A,⚪ Under Investigation,ACAMPROSATE,Small molecule,4,Withdrawn
+GRIN2C,⚪ Under Investigation,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2C,⚪ Under Investigation,FELBAMATE,Small molecule,4,Unknown
+GRIN2C,⚪ Under Investigation,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2C,⚪ Under Investigation,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2C,⚪ Under Investigation,MEMANTINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2C,⚪ Under Investigation,MEMANTINE,Small molecule,4,Unknown
+GRIN2C,⚪ Under Investigation,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2C,⚪ Under Investigation,ESKETAMINE,Small molecule,4,Recruiting
+GRIN2C,⚪ Under Investigation,ESKETAMINE,Small molecule,4,Withdrawn
+GRIN2C,⚪ Under Investigation,ESKETAMINE,Small molecule,4,Completed
+GRIN2C,⚪ Under Investigation,ESKETAMINE,Small molecule,4,Recruiting
+GRIN2C,⚪ Under Investigation,FELBAMATE,Small molecule,4,Unknown
+GRIN2C,⚪ Under Investigation,MEMANTINE HYDROCHLORIDE,Small molecule,4,Unknown status
+GRIN2C,⚪ Under Investigation,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2C,⚪ Under Investigation,AMANTADINE HYDROCHLORIDE,Small molecule,4,Unknown
+GRIN2C,⚪ Under Investigation,AMANTADINE HYDROCHLORIDE,Small molecule,4,Completed
+GRIN2C,⚪ Under Investigation,AMANTADINE,Small molecule,4,Unknown
+GRIN2C,⚪ Under Investigation,AMANTADINE,Small molecule,4,Completed
+GRIN2C,⚪ Under Investigation,AMANTADINE,Small molecule,4,Unknown status
+GRIN2C,⚪ Under Investigation,MEMANTINE HYDROCHLORIDE,Small molecule,4,Completed
+GRIN2C,⚪ Under Investigation,MEMANTINE,Small molecule,4,Completed
+GRIN2C,⚪ Under Investigation,FELBAMATE,Small molecule,4,Unknown
+GRIN2C,⚪ Under Investigation,ORPHENADRINE CITRATE,Small molecule,4,Unknown
+GRIN2C,⚪ Under Investigation,ACAMPROSATE,Small molecule,4,Unknown
+GRIN2C,⚪ Under Investigation,ACAMPROSATE,Small molecule,4,Completed
+HMGCR,🟡 Literature-Driven Target,SIMVASTATIN,Small molecule,4,Unknown
+HMGCR,🟡 Literature-Driven Target,SIMVASTATIN,Small molecule,4,Completed
+HMGCR,🟡 Literature-Driven Target,PRAVASTATIN,Small molecule,4,Unknown
+HMGCR,🟡 Literature-Driven Target,PITAVASTATIN,Small molecule,4,Unknown
+HMGCR,🟡 Literature-Driven Target,ATORVASTATIN,Small molecule,4,"Active, not recruiting"
+HMGCR,🟡 Literature-Driven Target,ATORVASTATIN,Small molecule,4,Completed
+HMGCR,🟡 Literature-Driven Target,ATORVASTATIN,Small molecule,4,Recruiting
+HMGCR,🟡 Literature-Driven Target,FLUVASTATIN,Small molecule,4,Unknown
+HMGCR,🟡 Literature-Driven Target,LOVASTATIN,Small molecule,4,Unknown
+HMGCR,🟡 Literature-Driven Target,ATORVASTATIN CALCIUM,Small molecule,4,Unknown
+HMGCR,🟡 Literature-Driven Target,PRAVASTATIN,Small molecule,4,Completed
+HMGCR,🟡 Literature-Driven Target,CERIVASTATIN,Small molecule,4,Unknown
+HMGCR,🟡 Literature-Driven Target,ATORVASTATIN,Small molecule,4,Unknown
+HMGCR,🟡 Literature-Driven Target,ATORVASTATIN,Small molecule,4,Terminated
+HMGCR,🟡 Literature-Driven Target,ATORVASTATIN,Small molecule,4,Unknown status
+HMGCR,🟡 Literature-Driven Target,ROSUVASTATIN,Small molecule,4,Unknown
+HMGCR,🟡 Literature-Driven Target,ROSUVASTATIN,Small molecule,4,"Active, not recruiting"
+HMGCR,🟡 Literature-Driven Target,ROSUVASTATIN,Small molecule,4,Terminated
+HMGCR,🟡 Literature-Driven Target,PRAVASTATIN SODIUM,Small molecule,4,Unknown
+HMGCR,🟡 Literature-Driven Target,ATORVASTATIN CALCIUM,Small molecule,4,Unknown
+HMGCR,🟡 Literature-Driven Target,SIMVASTATIN,Small molecule,4,Unknown
+HMGCR,🟡 Literature-Driven Target,SIMVASTATIN,Small molecule,4,Completed
+HMGCR,🟡 Literature-Driven Target,ATORVASTATIN CALCIUM,Small molecule,4,Unknown
+HMGCR,🟡 Literature-Driven Target,SIMVASTATIN,Small molecule,4,Unknown
+HMGCR,🟡 Literature-Driven Target,SIMVASTATIN,Small molecule,4,Completed
+CD33,🟡 Literature-Driven Target,GEMTUZUMAB OZOGAMICIN,Antibody drug conjugate,4,Unknown
+CD33,🟡 Literature-Driven Target,GEMTUZUMAB OZOGAMICIN,Antibody drug conjugate,4,Completed
+CD33,🟡 Literature-Driven Target,GEMTUZUMAB OZOGAMICIN,Antibody drug conjugate,4,Unknown
+CD33,🟡 Literature-Driven Target,GEMTUZUMAB OZOGAMICIN,Antibody drug conjugate,4,Unknown
+CD33,🟡 Literature-Driven Target,GEMTUZUMAB OZOGAMICIN,Antibody drug conjugate,3,Completed
+CD33,🟡 Literature-Driven Target,GEMTUZUMAB OZOGAMICIN,Antibody drug conjugate,3,Completed
+CD33,🟡 Literature-Driven Target,GEMTUZUMAB OZOGAMICIN,Antibody drug conjugate,3,"Active, not recruiting"
+CD33,🟡 Literature-Driven Target,GEMTUZUMAB OZOGAMICIN,Antibody drug conjugate,3,Recruiting
+CD33,🟡 Literature-Driven Target,GEMTUZUMAB,Antibody,3,Completed
+CD33,🟡 Literature-Driven Target,GEMTUZUMAB OZOGAMICIN,Antibody drug conjugate,3,Completed
+CD33,🟡 Literature-Driven Target,LINTUZUMAB,Antibody,3,Unknown status
+CD33,🟡 Literature-Driven Target,GEMTUZUMAB OZOGAMICIN,Antibody drug conjugate,2,Unknown status
+CD33,🟡 Literature-Driven Target,LINTUZUMAB,Antibody,2,Completed
+CD33,🟡 Literature-Driven Target,LINTUZUMAB,Antibody,2,Withdrawn
+CD33,🟡 Literature-Driven Target,GEMTUZUMAB OZOGAMICIN,Antibody drug conjugate,2,Terminated
+CD33,🟡 Literature-Driven Target,GEMTUZUMAB OZOGAMICIN,Antibody drug conjugate,2,"Active, not recruiting"
+CD33,🟡 Literature-Driven Target,GEMTUZUMAB OZOGAMICIN,Antibody drug conjugate,2,Completed
+CD33,🟡 Literature-Driven Target,GEMTUZUMAB OZOGAMICIN,Antibody drug conjugate,2,Recruiting
+CD33,🟡 Literature-Driven Target,GEMTUZUMAB OZOGAMICIN,Antibody drug conjugate,2,Unknown status
+CD33,🟡 Literature-Driven Target,GEMTUZUMAB OZOGAMICIN,Antibody drug conjugate,2,Completed
+CD33,🟡 Literature-Driven Target,GEMTUZUMAB OZOGAMICIN,Antibody drug conjugate,2,Withdrawn
+CD33,🟡 Literature-Driven Target,LINTUZUMAB,Antibody,2,Terminated
+CD33,🟡 Literature-Driven Target,LINTUZUMAB,Antibody,2,Completed
+CD33,🟡 Literature-Driven Target,GEMTUZUMAB OZOGAMICIN,Antibody drug conjugate,2,Not yet recruiting
+CD33,🟡 Literature-Driven Target,GEMTUZUMAB OZOGAMICIN,Antibody drug conjugate,2,Terminated
+NDUFAB1,⚪ Under Investigation,METFORMIN,Small molecule,4,Unknown
+NDUFAB1,⚪ Under Investigation,METFORMIN,Small molecule,4,Completed
+NDUFAB1,⚪ Under Investigation,METFORMIN,Small molecule,4,Not yet recruiting
+NDUFAB1,⚪ Under Investigation,METFORMIN,Small molecule,4,Recruiting
+NDUFAB1,⚪ Under Investigation,METFORMIN,Small molecule,4,Terminated
+NDUFAB1,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Unknown
+NDUFAB1,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Completed
+NDUFAB1,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Not yet recruiting
+NDUFAB1,⚪ Under Investigation,METFORMIN,Small molecule,4,Unknown status
+NDUFAB1,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Unknown
+NDUFAB1,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Completed
+NDUFAB1,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Recruiting
+NDUFAB1,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Withdrawn
+NDUFAB1,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,3,Completed
+NDUFAB1,⚪ Under Investigation,METFORMIN,Small molecule,3,Completed
+NDUFAB1,⚪ Under Investigation,METFORMIN,Small molecule,3,Completed
+NDUFAB1,⚪ Under Investigation,METFORMIN,Small molecule,3,Not yet recruiting
+NDUFAB1,⚪ Under Investigation,METFORMIN,Small molecule,3,Recruiting
+NDUFAB1,⚪ Under Investigation,METFORMIN,Small molecule,3,Unknown status
+NDUFAB1,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,3,Completed
+NDUFAB1,⚪ Under Investigation,METFORMIN,Small molecule,3,Recruiting
+NDUFAB1,⚪ Under Investigation,METFORMIN,Small molecule,3,Recruiting
+NDUFAB1,⚪ Under Investigation,METFORMIN,Small molecule,3,"Active, not recruiting"
+NDUFAB1,⚪ Under Investigation,METFORMIN,Small molecule,3,Terminated
+NDUFAB1,⚪ Under Investigation,METFORMIN,Small molecule,3,Withdrawn
+GSK3B,🟡 Literature-Driven Target,LITHIUM CARBONATE,Small molecule,4,Unknown status
+GSK3B,🟡 Literature-Driven Target,LITHIUM CARBONATE,Small molecule,4,Terminated
+GSK3B,🟡 Literature-Driven Target,LITHIUM CARBONATE,Small molecule,4,Recruiting
+GSK3B,🟡 Literature-Driven Target,LITHIUM CARBONATE,Small molecule,4,Unknown
+GSK3B,🟡 Literature-Driven Target,LITHIUM CARBONATE,Small molecule,4,Completed
+GSK3B,🟡 Literature-Driven Target,LITHIUM CARBONATE,Small molecule,4,Withdrawn
+GSK3B,🟡 Literature-Driven Target,LITHIUM CITRATE,Small molecule,4,Unknown
+GSK3B,🟡 Literature-Driven Target,LITHIUM CARBONATE,Small molecule,4,Completed
+GSK3B,🟡 Literature-Driven Target,LITHIUM CARBONATE,Small molecule,4,Unknown status
+GSK3B,🟡 Literature-Driven Target,LITHIUM CARBONATE,Small molecule,4,Completed
+GSK3B,🟡 Literature-Driven Target,LITHIUM CARBONATE,Small molecule,4,Terminated
+GSK3B,🟡 Literature-Driven Target,LITHIUM CARBONATE,Small molecule,4,Unknown status
+GSK3B,🟡 Literature-Driven Target,LITHIUM CARBONATE,Small molecule,4,Completed
+GSK3B,🟡 Literature-Driven Target,LITHIUM CARBONATE,Small molecule,4,Unknown
+GSK3B,🟡 Literature-Driven Target,LITHIUM CARBONATE,Small molecule,4,Recruiting
+GSK3B,🟡 Literature-Driven Target,LITHIUM CARBONATE,Small molecule,4,Terminated
+GSK3B,🟡 Literature-Driven Target,LITHIUM CARBONATE,Small molecule,4,Withdrawn
+GSK3B,🟡 Literature-Driven Target,LITHIUM CARBONATE,Small molecule,3,Completed
+GSK3B,🟡 Literature-Driven Target,LITHIUM CARBONATE,Small molecule,3,Recruiting
+GSK3B,🟡 Literature-Driven Target,LITHIUM CARBONATE,Small molecule,3,Recruiting
+GSK3B,🟡 Literature-Driven Target,LITHIUM CARBONATE,Small molecule,3,"Active, not recruiting"
+GSK3B,🟡 Literature-Driven Target,LITHIUM CARBONATE,Small molecule,3,Completed
+GSK3B,🟡 Literature-Driven Target,LITHIUM CARBONATE,Small molecule,3,Completed
+GSK3B,🟡 Literature-Driven Target,LITHIUM CARBONATE,Small molecule,3,Completed
+GSK3B,🟡 Literature-Driven Target,LITHIUM CARBONATE,Small molecule,3,Completed
+CLU,🟡 Literature-Driven Target,CUSTIRSEN,Oligonucleotide,3,Unknown status
+CLU,🟡 Literature-Driven Target,CUSTIRSEN SODIUM,Oligonucleotide,3,Completed
+CLU,🟡 Literature-Driven Target,CUSTIRSEN,Oligonucleotide,3,Completed
+CLU,🟡 Literature-Driven Target,CUSTIRSEN SODIUM,Oligonucleotide,3,Terminated
+CLU,🟡 Literature-Driven Target,CUSTIRSEN SODIUM,Oligonucleotide,2,Completed
+CLU,🟡 Literature-Driven Target,CUSTIRSEN,Oligonucleotide,2,Completed
+CLU,🟡 Literature-Driven Target,CUSTIRSEN SODIUM,Oligonucleotide,2,Completed
+CLU,🟡 Literature-Driven Target,CUSTIRSEN SODIUM,Oligonucleotide,1,Completed
+CLU,🟡 Literature-Driven Target,CUSTIRSEN,Oligonucleotide,1,Completed
+CLU,🟡 Literature-Driven Target,CUSTIRSEN SODIUM,Oligonucleotide,1,Completed
+PLK1,🟡 Literature-Driven Target,VOLASERTIB,Small molecule,3,Completed
+PLK1,🟡 Literature-Driven Target,VOLASERTIB,Small molecule,2,Completed
+PLK1,🟡 Literature-Driven Target,VOLASERTIB,Small molecule,2,Terminated
+PLK1,🟡 Literature-Driven Target,VOLASERTIB,Small molecule,2,Terminated
+PLK1,🟡 Literature-Driven Target,BI-2536,Small molecule,2,Completed
+PLK1,🟡 Literature-Driven Target,VOLASERTIB,Small molecule,2,Completed
+PLK1,🟡 Literature-Driven Target,VOLASERTIB,Small molecule,2,Completed
+PLK1,🟡 Literature-Driven Target,BI-2536,Small molecule,2,Completed
+PLK1,🟡 Literature-Driven Target,BI-2536,Small molecule,2,Completed
+PLK1,🟡 Literature-Driven Target,BI-2536,Small molecule,2,Completed
+PLK1,🟡 Literature-Driven Target,BI-2536,Small molecule,2,Completed
+PLK1,🟡 Literature-Driven Target,VOLASERTIB,Small molecule,2,Completed
+PLK1,🟡 Literature-Driven Target,ONVANSERTIB,Small molecule,2,"Active, not recruiting"
+PLK1,🟡 Literature-Driven Target,ONVANSERTIB,Small molecule,2,"Active, not recruiting"
+PLK1,🟡 Literature-Driven Target,ONVANSERTIB,Small molecule,2,Completed
+PLK1,🟡 Literature-Driven Target,VOLASERTIB,Small molecule,1,Terminated
+PLK1,🟡 Literature-Driven Target,VOLASERTIB,Small molecule,1,Withdrawn
+PLK1,🟡 Literature-Driven Target,ONVANSERTIB,Small molecule,1,Completed
+PLK1,🟡 Literature-Driven Target,VOLASERTIB,Small molecule,1,Withdrawn
+PLK1,🟡 Literature-Driven Target,VOLASERTIB,Small molecule,1,Completed
+PLK1,🟡 Literature-Driven Target,VOLASERTIB,Small molecule,1,Terminated
+PLK1,🟡 Literature-Driven Target,CAFUSERTIB,Unknown,1,Unknown status
+PLK1,🟡 Literature-Driven Target,VOLASERTIB,Small molecule,1,Completed
+PLK1,🟡 Literature-Driven Target,BI-2536,Small molecule,1,Completed
+PLK1,🟡 Literature-Driven Target,MK-1496,Small molecule,1,Completed
+CDK4,🟡 Literature-Driven Target,PALBOCICLIB,Small molecule,4,Unknown
+CDK4,🟡 Literature-Driven Target,ABEMACICLIB,Small molecule,4,Unknown
+CDK4,🟡 Literature-Driven Target,RIBOCICLIB SUCCINATE,Small molecule,4,Unknown
+CDK4,🟡 Literature-Driven Target,ABEMACICLIB,Small molecule,4,Unknown
+CDK4,🟡 Literature-Driven Target,PALBOCICLIB,Small molecule,4,Unknown
+CDK4,🟡 Literature-Driven Target,RIBOCICLIB SUCCINATE,Small molecule,4,Unknown
+CDK4,🟡 Literature-Driven Target,TRILACICLIB DIHYDROCHLORIDE,Small molecule,4,Unknown
+CDK4,🟡 Literature-Driven Target,PALBOCICLIB,Small molecule,4,Unknown
+CDK4,🟡 Literature-Driven Target,PALBOCICLIB,Small molecule,4,Terminated
+CDK4,🟡 Literature-Driven Target,ABEMACICLIB,Small molecule,4,Unknown
+CDK4,🟡 Literature-Driven Target,RIBOCICLIB SUCCINATE,Small molecule,4,Unknown
+CDK4,🟡 Literature-Driven Target,PALBOCICLIB,Small molecule,4,Completed
+CDK4,🟡 Literature-Driven Target,ABEMACICLIB,Small molecule,4,Recruiting
+CDK4,🟡 Literature-Driven Target,ABEMACICLIB,Small molecule,4,Terminated
+CDK4,🟡 Literature-Driven Target,ABEMACICLIB,Small molecule,4,Withdrawn
+CDK4,🟡 Literature-Driven Target,ABEMACICLIB,Small molecule,4,Unknown
+CDK4,🟡 Literature-Driven Target,PALBOCICLIB,Small molecule,4,Unknown
+CDK4,🟡 Literature-Driven Target,PALBOCICLIB,Small molecule,4,Recruiting
+CDK4,🟡 Literature-Driven Target,RIBOCICLIB SUCCINATE,Small molecule,4,Unknown
+CDK4,🟡 Literature-Driven Target,PALBOCICLIB,Small molecule,3,Recruiting
+CDK4,🟡 Literature-Driven Target,TRILACICLIB,Small molecule,3,Completed
+CDK4,🟡 Literature-Driven Target,PALBOCICLIB,Small molecule,3,Completed
+CDK4,🟡 Literature-Driven Target,ABEMACICLIB,Small molecule,3,"Active, not recruiting"
+CDK4,🟡 Literature-Driven Target,TRILACICLIB,Small molecule,3,"Active, not recruiting"
+CDK4,🟡 Literature-Driven Target,ABEMACICLIB,Small molecule,3,"Active, not recruiting"
+AXL,⚪ Under Investigation,GILTERITINIB FUMARATE,Small molecule,4,Unknown
+AXL,⚪ Under Investigation,GILTERITINIB,Small molecule,4,Unknown
+AXL,⚪ Under Investigation,GILTERITINIB FUMARATE,Small molecule,4,Unknown
+AXL,⚪ Under Investigation,GILTERITINIB,Small molecule,3,"Active, not recruiting"
+AXL,⚪ Under Investigation,GILTERITINIB,Small molecule,3,Completed
+AXL,⚪ Under Investigation,GILTERITINIB,Small molecule,3,"Active, not recruiting"
+AXL,⚪ Under Investigation,GILTERITINIB FUMARATE,Small molecule,3,"Active, not recruiting"
+AXL,⚪ Under Investigation,GILTERITINIB,Small molecule,2,Recruiting
+AXL,⚪ Under Investigation,GILTERITINIB FUMARATE,Small molecule,2,Recruiting
+AXL,⚪ Under Investigation,GILTERITINIB,Small molecule,2,Completed
+AXL,⚪ Under Investigation,GILTERITINIB,Small molecule,2,"Active, not recruiting"
+AXL,⚪ Under Investigation,GILTERITINIB,Small molecule,2,Recruiting
+AXL,⚪ Under Investigation,BEMCENTINIB,Small molecule,2,Completed
+AXL,⚪ Under Investigation,BEMCENTINIB,Small molecule,2,"Active, not recruiting"
+AXL,⚪ Under Investigation,BEMCENTINIB,Small molecule,2,Completed
+AXL,⚪ Under Investigation,NINGETINIB,Small molecule,2,Terminated
+AXL,⚪ Under Investigation,GILTERITINIB,Small molecule,2,Recruiting
+AXL,⚪ Under Investigation,BEMCENTINIB,Small molecule,2,Terminated
+AXL,⚪ Under Investigation,GILTERITINIB,Small molecule,2,Recruiting
+AXL,⚪ Under Investigation,BEMCENTINIB,Small molecule,2,Completed
+AXL,⚪ Under Investigation,NINGETINIB,Small molecule,1,Terminated
+AXL,⚪ Under Investigation,GILTERITINIB,Small molecule,1,Recruiting
+AXL,⚪ Under Investigation,BEMCENTINIB,Small molecule,1,Unknown status
+AXL,⚪ Under Investigation,GILTERITINIB,Small molecule,1,Completed
+AXL,⚪ Under Investigation,GILTERITINIB FUMARATE,Small molecule,1,Withdrawn
+NDUFS5,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Not yet recruiting
+NDUFS5,⚪ Under Investigation,METFORMIN,Small molecule,4,Terminated
+NDUFS5,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Unknown
+NDUFS5,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Completed
+NDUFS5,⚪ Under Investigation,METFORMIN,Small molecule,4,Unknown
+NDUFS5,⚪ Under Investigation,METFORMIN,Small molecule,4,Completed
+NDUFS5,⚪ Under Investigation,METFORMIN,Small molecule,4,Not yet recruiting
+NDUFS5,⚪ Under Investigation,METFORMIN,Small molecule,4,Recruiting
+NDUFS5,⚪ Under Investigation,METFORMIN,Small molecule,4,Unknown status
+NDUFS5,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Withdrawn
+NDUFS5,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Unknown
+NDUFS5,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Completed
+NDUFS5,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Recruiting
+NDUFS5,⚪ Under Investigation,METFORMIN,Small molecule,3,Completed
+NDUFS5,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,3,Completed
+NDUFS5,⚪ Under Investigation,METFORMIN,Small molecule,3,"Active, not recruiting"
+NDUFS5,⚪ Under Investigation,METFORMIN,Small molecule,3,Completed
+NDUFS5,⚪ Under Investigation,METFORMIN,Small molecule,3,Not yet recruiting
+NDUFS5,⚪ Under Investigation,METFORMIN,Small molecule,3,Recruiting
+NDUFS5,⚪ Under Investigation,METFORMIN,Small molecule,3,Withdrawn
+NDUFS5,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,3,Completed
+NDUFS5,⚪ Under Investigation,METFORMIN,Small molecule,3,Recruiting
+NDUFS5,⚪ Under Investigation,METFORMIN,Small molecule,3,Recruiting
+NDUFS5,⚪ Under Investigation,METFORMIN,Small molecule,3,Completed
+NDUFS5,⚪ Under Investigation,METFORMIN,Small molecule,3,Completed
+AURKB,⚪ Under Investigation,IBCASERTIB,Small molecule,3,Recruiting
+AURKB,⚪ Under Investigation,ENMD-2076,Small molecule,2,Completed
+AURKB,⚪ Under Investigation,BARASERTIB,Small molecule,2,Completed
+AURKB,⚪ Under Investigation,BI-811283,Unknown,2,Completed
+AURKB,⚪ Under Investigation,ENMD-2076,Small molecule,2,Completed
+AURKB,⚪ Under Investigation,DANUSERTIB,Small molecule,2,Unknown status
+AURKB,⚪ Under Investigation,TOZASERTIB,Small molecule,2,Terminated
+AURKB,⚪ Under Investigation,DANUSERTIB,Small molecule,2,Terminated
+AURKB,⚪ Under Investigation,AT-9283,Small molecule,2,Completed
+AURKB,⚪ Under Investigation,TOZASERTIB,Small molecule,2,Terminated
+AURKB,⚪ Under Investigation,ENMD-2076,Small molecule,2,Completed
+AURKB,⚪ Under Investigation,IBCASERTIB,Small molecule,2,Recruiting
+AURKB,⚪ Under Investigation,IBCASERTIB,Small molecule,2,Recruiting
+AURKB,⚪ Under Investigation,ENMD-2076,Small molecule,2,Completed
+AURKB,⚪ Under Investigation,ENMD-2076,Small molecule,2,Completed
+AURKB,⚪ Under Investigation,ENMD-2076,Small molecule,2,Completed
+AURKB,⚪ Under Investigation,ENMD-2076,Small molecule,2,Completed
+AURKB,⚪ Under Investigation,ILORASERTIB,Small molecule,2,Terminated
+AURKB,⚪ Under Investigation,IBCASERTIB,Small molecule,2,Completed
+AURKB,⚪ Under Investigation,DANUSERTIB,Small molecule,2,Completed
+AURKB,⚪ Under Investigation,TOZASERTIB,Small molecule,1,Completed
+AURKB,⚪ Under Investigation,TAK-901,Small molecule,1,Completed
+AURKB,⚪ Under Investigation,IBCASERTIB,Small molecule,1,Completed
+AURKB,⚪ Under Investigation,KW-2449,Small molecule,1,Terminated
+AURKB,⚪ Under Investigation,TAK-901,Small molecule,1,Completed
+NDUFA8,⚪ Under Investigation,METFORMIN,Small molecule,4,Completed
+NDUFA8,⚪ Under Investigation,METFORMIN,Small molecule,4,Recruiting
+NDUFA8,⚪ Under Investigation,METFORMIN,Small molecule,4,Terminated
+NDUFA8,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Completed
+NDUFA8,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Not yet recruiting
+NDUFA8,⚪ Under Investigation,METFORMIN,Small molecule,4,Unknown
+NDUFA8,⚪ Under Investigation,METFORMIN,Small molecule,4,Not yet recruiting
+NDUFA8,⚪ Under Investigation,METFORMIN,Small molecule,4,Unknown status
+NDUFA8,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Unknown
+NDUFA8,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Completed
+NDUFA8,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Recruiting
+NDUFA8,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Unknown
+NDUFA8,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Withdrawn
+NDUFA8,⚪ Under Investigation,METFORMIN,Small molecule,3,Completed
+NDUFA8,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,3,Completed
+NDUFA8,⚪ Under Investigation,METFORMIN,Small molecule,3,Recruiting
+NDUFA8,⚪ Under Investigation,METFORMIN,Small molecule,3,Terminated
+NDUFA8,⚪ Under Investigation,METFORMIN,Small molecule,3,Unknown status
+NDUFA8,⚪ Under Investigation,METFORMIN,Small molecule,3,Withdrawn
+NDUFA8,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,3,Completed
+NDUFA8,⚪ Under Investigation,METFORMIN,Small molecule,3,Recruiting
+NDUFA8,⚪ Under Investigation,METFORMIN,Small molecule,3,Completed
+NDUFA8,⚪ Under Investigation,METFORMIN,Small molecule,3,"Active, not recruiting"
+NDUFA8,⚪ Under Investigation,METFORMIN,Small molecule,3,Completed
+NDUFA8,⚪ Under Investigation,METFORMIN,Small molecule,3,Not yet recruiting
+NDUFV2,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Not yet recruiting
+NDUFV2,⚪ Under Investigation,METFORMIN,Small molecule,4,Unknown
+NDUFV2,⚪ Under Investigation,METFORMIN,Small molecule,4,Not yet recruiting
+NDUFV2,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Unknown
+NDUFV2,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Completed
+NDUFV2,⚪ Under Investigation,METFORMIN,Small molecule,4,Completed
+NDUFV2,⚪ Under Investigation,METFORMIN,Small molecule,4,Recruiting
+NDUFV2,⚪ Under Investigation,METFORMIN,Small molecule,4,Terminated
+NDUFV2,⚪ Under Investigation,METFORMIN,Small molecule,4,Unknown status
+NDUFV2,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Unknown
+NDUFV2,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Completed
+NDUFV2,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Recruiting
+NDUFV2,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,4,Withdrawn
+NDUFV2,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,3,Completed
+NDUFV2,⚪ Under Investigation,METFORMIN,Small molecule,3,Completed
+NDUFV2,⚪ Under Investigation,METFORMIN,Small molecule,3,"Active, not recruiting"
+NDUFV2,⚪ Under Investigation,METFORMIN,Small molecule,3,Completed
+NDUFV2,⚪ Under Investigation,METFORMIN,Small molecule,3,Withdrawn
+NDUFV2,⚪ Under Investigation,METFORMIN HYDROCHLORIDE,Small molecule,3,Completed
+NDUFV2,⚪ Under Investigation,METFORMIN,Small molecule,3,Not yet recruiting
+NDUFV2,⚪ Under Investigation,METFORMIN,Small molecule,3,Recruiting
+NDUFV2,⚪ Under Investigation,METFORMIN,Small molecule,3,Terminated
+NDUFV2,⚪ Under Investigation,METFORMIN,Small molecule,3,Unknown status
+NDUFV2,⚪ Under Investigation,METFORMIN,Small molecule,3,Recruiting
+NDUFV2,⚪ Under Investigation,METFORMIN,Small molecule,3,Completed
