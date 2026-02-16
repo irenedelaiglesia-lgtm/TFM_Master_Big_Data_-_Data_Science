@@ -1,0 +1,74 @@
+============================================================
+📊 REPORTE DE CALIDAD Y ANÁLISIS DEL DATASET MAESTRO
+============================================================
+✅ Dataset cargado correctamente.
+📉 Dimensiones: 1004 filas x 22 columnas
+
+----------------------------------------
+1. ANÁLISIS DE INTEGRIDAD (Nulos y Dispersión)
+----------------------------------------
+                             Tipo Dato  Nulos (NaN)  % Nulos  Ceros (0)  % Ceros
+target_id                       object            0      0.0          0     0.00
+uniprot_id                      object            0      0.0          0     0.00
+gene_symbol                     object            0      0.0          0     0.00
+gene_name                       object            0      0.0          0     0.00
+score_overall                  float64            0      0.0          0     0.00
+max_clinical_phase               int64            0      0.0        819    81.57
+n_drugs                          int64            0      0.0        819    81.57
+score_known_drug               float64            0      0.0        932    92.83
+score_rna_expression           float64            0      0.0        777    77.39
+score_genetic_literature       float64            0      0.0        994    99.00
+score_literature               float64            0      0.0        225    22.41
+score_genetic_association      float64            0      0.0        553    55.08
+score_animal_model             float64            0      0.0        991    98.71
+score_affected_pathway         float64            0      0.0        422    42.03
+has_clinical_trials              int64            0      0.0        819    81.57
+is_high_confidence               int64            0      0.0        988    98.41
+geneticConstraint              float64            0      0.0         31     3.09
+hasHighQualityChemicalProbes   float64            0      0.0        902    89.84
+expressionAtlas                float64            0      0.0        777    77.39
+target_success                   int64            0      0.0        819    81.57
+max_pchembl                    float64            0      0.0        510    50.80
+drug_count                       int64            0      0.0        510    50.80
+
+✅ Todas las variables críticas están presentes.
+
+----------------------------------------
+2. VERIFICACIÓN DE LÓGICA BIOLÓGICA
+----------------------------------------
+✅ TEST A PASADO: Coherencia Fase Clínica vs Target Success correcta.
+✅ TEST B PASADO: Coherencia Química correcta.
+
+----------------------------------------
+3. ANÁLISIS DE PODER PREDICTIVO (Correlación)
+----------------------------------------
+has_clinical_trials             1.000000
+max_clinical_phase              0.971761
+n_drugs                         0.575307
+score_known_drug                0.531151
+max_pchembl                     0.510190
+hasHighQualityChemicalProbes    0.375903
+score_literature                0.372125
+drug_count                      0.270665
+score_overall                   0.245718
+is_high_confidence              0.165181
+score_genetic_literature        0.094815
+score_animal_model              0.070056
+score_rna_expression            0.040293
+expressionAtlas                 0.040293
+score_affected_pathway         -0.011296
+geneticConstraint              -0.068667
+score_genetic_association      -0.114505
+
+📸 Gráfico de correlación guardado en: c:\Users\irene\Documents\TFM_Master_Big_Data_-_Data_Science\reports\matriz_correlacion.png
+
+----------------------------------------
+4. DISTRIBUCIÓN PRELIMINAR DE MADUREZ
+----------------------------------------
+🧬 TIER 1 (Líderes / Alta Potencia): 385 genes
+🧪 TIER 2 (En Validación / Potencia Media): 150 genes
+🌑 TIER 3 (Emergentes / Sin Química): 518 genes
+
+============================================================
+✅ REPORTE GENERADO CON ÉXITO
+============================================================

@@ -1,0 +1,71 @@
+import pandas as pd
+import requests
+import time
+
+# Configuración
+INPUT_PATH = "data/processed/dataset_maestro_final.csv"
+OUTPUT_PATH = "data/processed/dataset_maestro_enriquecido_v2.csv"
+
+# Identificación para la API (Evita bloqueos)
+HEADERS = {'User-Agent': 'TFM-Alzheimer-Project/1.0 (contact: irene@example.com)'}
+
+def get_chembl_data_pro(uniprot_id):
+    """Estrategia de búsqueda: Componente -> Target -> Activity"""
+    if not uniprot_id or pd.isna(uniprot_id): return 0.0, 0
+    
+    # 1. Buscar el ChEMBL ID del Target usando el UniProt ID
+    # Usamos el endpoint de 'target_component' que es más directo para UniProt
+    comp_url = f"https://www.ebi.ac.uk/chembl/api/data/target_component.json?accession={uniprot_id}"
+    
+    try:
+        res = requests.get(comp_url, headers=HEADERS, timeout=15)
+        if res.status_code != 200: return 0.0, 0
+        
+        comp_data = res.json()
+        if not comp_data.get('target_components'): return 0.0, 0
+        
+        # Obtenemos el ID del target asociado a este componente
+        # Un componente puede estar en varios targets (complejos), cogemos el primero
+        targets = comp_data['target_components'][0].get('targets', [])
+        if not targets: return 0.0, 0
+        
+        tid = targets[0]['target_chembl_id']
+        
+        # 2. Obtener Actividades para ese Target ID
+        # Pedimos el conteo total y el mejor pChEMBL
+        act_url = f"https://www.ebi.ac.uk/chembl/api/data/activity.json?target_chembl_id={tid}&pchembl_value__isnull=false&order_by=-pchembl_value&limit=1"
+        act_res = requests.get(act_url, headers=HEADERS, timeout=15).json()
+        
+        # Extraer datos
+        drug_count = int(act_res['page_meta']['total_count'])
+        max_pchembl = float(act_res['activities'][0]['pchembl_value']) if act_res['activities'] else 0.0
+        
+        return max_pchembl, drug_count
+
+    except Exception as e:
+        # En caso de error, devolvemos 0 para no frenar el proceso
+        return 0.0, 0
+
+# Carga de datos
+df = pd.read_csv(INPUT_PATH)
+print(f"🚀 Iniciando Enriquecimiento V4 para {len(df)} genes...")
+
+results = []
+for i, row in df.iterrows():
+    p, count = get_chembl_data_pro(row['uniprot_id'])
+    results.append({'max_pchembl': p, 'drug_count': count})
+    
+    # Debug visual: Queremos ver que PSEN1 y APP sacan datos
+    if i % 10 == 0 or row['gene_symbol'] in ['PSEN1', 'APP']:
+        print(f"📊 [{i}] Gen: {row['gene_symbol']} | pChEMBL: {p} | Fármacos: {count}")
+    
+    # Pausa de seguridad (ChEMBL es estricto)
+    time.sleep(0.3)
+
+# Unir y Guardar
+df_new = pd.DataFrame(results)
+df_final = pd.concat([df.reset_index(drop=True), df_new], axis=1)
+df_final.to_csv(OUTPUT_PATH, index=False)
+
+print(f"\n✨ ¡FIN DEL PROCESO! Datos guardados en {OUTPUT_PATH}")
+print(f"Dianas con éxito químico: {df_final[df_final['max_pchembl'] > 0].shape[0]}")
