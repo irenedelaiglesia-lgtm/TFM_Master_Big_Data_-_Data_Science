@@ -1,6 +1,7 @@
 # TFM - Data Science, Big data & Business Analytics
 ## *Desarrollo de un Sistema Big Data para la Priorización de Dianas en Alzheimer: Integración Genómica y Modelado Predictivo*
 # 🧠 AD-Target Intelligence System
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ### Priorización de Dianas Terapéuticas para Alzheimer mediante Machine Learning
 
 **Autor/a:** Irene de la Iglesia del Pino\
