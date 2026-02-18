@@ -16,7 +16,7 @@ def merge_datasets():
     
     # 1. Cargar targets limpios de la API (Desde SQLite o CSV clean)
     conn = sqlite3.connect(DB_PATH)
-    # Cargamos la tabla que limpiamos en el Día 2
+    # Cargamos la tabla
     df_api = pd.read_sql("SELECT * FROM alzheimer_targets_clean", conn)
     conn.close()
     

@@ -6,7 +6,7 @@ import os
 # CONFIGURACIÓN
 # =========================
 
-TSV_FILE_NAME = "OT-MONDO_0004975-associated-targets-5_2_2026-v25_12.tsv"
+TSV_FILE_NAME = "targets_aditional_info.tsv"
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.abspath(os.path.join(BASE_DIR, "..", ".."))
@@ -43,7 +43,6 @@ def process_tsv():
     # Vamos a quedarnos con las columnas de scores adicionales:
     cols_scores = [c for c in df.columns if 'Score' in c or 'genetic' in c.lower()]
     
-    # Para tu TFM, nos interesan especialmente estas:
     df_subset = df[['symbol', 'geneticConstraint', 'hasHighQualityChemicalProbes', 'expressionAtlas']].copy()
 
     # 4. Convertir a numérico lo que sea necesario

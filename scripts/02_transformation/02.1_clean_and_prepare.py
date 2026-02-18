@@ -18,19 +18,18 @@ else:
     df = pd.read_csv(INPUT_CSV)
 
     # ---- 1️⃣ Normalizar Identificadores ----
-    # Muy importante para el Merge de mañana
     df["gene_symbol"] = df["gene_symbol"].str.upper().str.strip()
     df["target_id"] = df["target_id"].str.strip()
 
     # ---- 2️⃣ Asegurar que los scores son numéricos (Casting) ----
-    # Buscamos todas las columnas que empiecen por 'score_' o sean de fase/fármacos
+   
     cols_to_fix = [c for c in df.columns if 'score_' in c] + ['max_clinical_phase', 'n_drugs']
     
     for col in cols_to_fix:
         df[col] = pd.to_numeric(df[col], errors="coerce").fillna(0)
 
     # ---- 3️⃣ Feature Engineering Inicial (Flags) ----
-    # Esto aporta valor analítico al TFM
+
     df["has_clinical_trials"] = df["max_clinical_phase"] > 0
     df["is_high_confidence"] = df["score_overall"] > 0.6
 
