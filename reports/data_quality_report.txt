@@ -1,0 +1,40 @@
+=== INFORME DE CALIDAD DE DATOS (CAPA SILVER) ===
+
+Total filas procesadas: 1000
+Total columnas: 16
+
+--- INTEGRIDAD ---
+Nulos por columna:
+target_id                    0
+uniprot_id                   0
+gene_symbol                  0
+gene_name                    0
+score_overall                0
+max_clinical_phase           0
+n_drugs                      0
+score_known_drug             0
+score_rna_expression         0
+score_genetic_literature     0
+score_literature             0
+score_genetic_association    0
+score_animal_model           0
+score_affected_pathway       0
+has_clinical_trials          0
+is_high_confidence           0
+
+--- ESTADÍSTICAS DE EVIDENCIA ---
+Estadísticas de Scores:
+       score_overall  score_known_drug  score_rna_expression  score_genetic_literature  score_literature  score_genetic_association  score_animal_model  score_affected_pathway
+count    1000.000000       1000.000000           1000.000000               1000.000000       1000.000000                1000.000000         1000.000000             1000.000000
+mean        0.358549          0.038370              0.010707                  0.006217          0.208447                   0.216659            0.004980                0.341529
+std         0.087426          0.151749              0.024097                  0.063440          0.272191                   0.261572            0.045545                0.307725
+min         0.262395          0.000000              0.000000                  0.000000          0.000000                   0.000000            0.000000                0.000000
+25%         0.295938          0.000000              0.000000                  0.000000          0.012159                   0.000000            0.000000                0.000000
+50%         0.328887          0.000000              0.000000                  0.000000          0.079221                   0.000000            0.000000                0.454343
+75%         0.396414          0.000000              0.000000                  0.000000          0.307648                   0.482470            0.000000                0.591202
+max         0.867114          0.994196              0.164927                  0.885582          0.999165                   0.954380            0.632646                0.954995
+
+--- HALLAZGOS CRÍTICOS ---
+1. Targets sin evidencia genética (score_genetic = 0): 549 (54.9%)
+2. Targets sin ninguna evidencia (Todos scores 0): 0
+3. Targets con fármacos conocidos (score_known_drug > 0): 72
